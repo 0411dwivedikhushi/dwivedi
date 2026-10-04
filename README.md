@@ -4,3 +4,4 @@ git and github session
 khushi 
 appwards
 tech
+pyq
